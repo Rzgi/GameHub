@@ -58,8 +58,12 @@ besoins par la définition des cas d’utilisation.
 Dans cette section, nous présentons le diagramme de cas d’utilisation  (cf. Figure [1](#fig1))
 qui permet d’illustrer les fonctionnalites système  vis-à-vis aux acteurs présentés.
 
-![diagramme de cas d’utilisation](https://github.com/Rzgi/GameHub/blob/main/Diagramme%20de%20Cas%20d'Utilisation.png)
-<p align="center" id="fig1">
+
+<img id="fig1" src="https://github.com/Rzgi/GameHub/blob/main/Diagramme%20de%20Cas%20d'Utilisation.png"
+     alt="diagramme de cas d’utilisation"
+     style="float: left; margin-right: 10px;" />
+     
+<p align="center">
 Figure 1 - diagramme de cas d’utilisation 
 </p>
 <br></br>
