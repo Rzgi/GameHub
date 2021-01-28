@@ -1,9 +1,10 @@
 # Projet : vente des jeux vidéo
 ## Aller à la section
-* [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
-* [Les besoins non fonctionnels](#B---Les-besoins-non-fonctionnels)
+* [Specification des besoins](#Specification-des-besoins)
+ * [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
+ * [Les besoins non fonctionnels](#B---Les-besoins-non-fonctionnels)
 
-## Les besoins fonctionnels et non fonctionnels de notre application :
+## Specification des besoins :
 
 Dans cette section, nous procedons a une etape de specification des besoins fonctionnels de notre systeme.  
 Ces besoins seront modelises a travers une etude detaillee de ses fonctionnalites.   
