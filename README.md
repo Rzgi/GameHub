@@ -55,4 +55,4 @@ besoins par la définition des cas d’utilisation.
 Dans cette section, nous présentons le diagramme de cas d’utilisation global (cf. Figure [1](#diagramme))
 qui permet d’illustrer les fonctionnalit ́es système globales vis-à-vis aux acteurs présentés.
 
-![Image of Yaktocat](https://github.com/Rzgi/GameHub/blob/main/Diagram%20de%20s%C3%A9quence%20.png)
+![Image of Yaktocat](https://github.com/Rzgi/GameHub/blob/main/Diagramme%20de%20Cas%20d'Utilisation.png)
