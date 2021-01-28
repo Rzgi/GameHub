@@ -1,4 +1,4 @@
-# Projet : vente des jeux vidéo
+# Projet : Gestion de collection de jeux vidéo
 ## Aller à la section
 * [Specification des besoins](#Specification-des-besoins)  
   * [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
