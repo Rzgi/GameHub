@@ -52,4 +52,7 @@ Interchangeabilité.
 Après la présentation des besoins fonctionnels, nous passons a la modélisation de ces
 besoins par la définition des cas d’utilisation.
 ### Identification des cas d’utilisation
+Dans cette section, nous présentons le diagramme de cas d’utilisation global (cf. Figure [1](#diagramme))
+qui permet d’illustrer les fonctionnalit ́es système globales vis-à-vis aux acteurs présentés.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
