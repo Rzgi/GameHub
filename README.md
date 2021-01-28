@@ -1,8 +1,8 @@
 # Projet : vente des jeux vidéo
 ## Aller à la section
-* [Specification des besoins](#Specification-des-besoins)
- * [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
- * [Les besoins non fonctionnels](#B---Les-besoins-non-fonctionnels)
+* [Specification des besoins](#Specification-des-besoins)  
+  * [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
+  * [Les besoins non fonctionnels](#B---Les-besoins-non-fonctionnels)
 
 ## Specification des besoins :
 
