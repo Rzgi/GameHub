@@ -1,6 +1,7 @@
 # Projet : vente des jeux vidéo
-
-[click on this link](#B---Les-besoins-non-fonctionnels)
+Go to section
+* [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
+* [Les besoins non fonctionnels](#B---Les-besoins-non-fonctionnels)
 
 ## Les besoins fonctionnels et non fonctionnels de notre application :
 
