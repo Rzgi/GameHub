@@ -59,7 +59,7 @@ Dans cette section, nous présentons le diagramme de cas d’utilisation  (cf. F
 qui permet d’illustrer les fonctionnalites système  vis-à-vis aux acteurs présentés.
 
 
-<img id="fig1" src="https://github.com/Rzgi/GameHub/blob/main/Diagramme%20de%20Cas%20d'Utilisation.png"
+<img id="fig1" src="https://github.com/Rzgi/GameHub/blob/main/spec/Diagramme%20de%20Cas%20d'Utilisation.png"
      alt="diagramme de cas d’utilisation"
      style="float: left; margin-right: 10px;" />
      
@@ -96,7 +96,7 @@ plusieurs éléments qui interagissent par l’envoi de messages. Il permet de d
 
 
  
- <img id="fig2" src="https://github.com/Rzgi/GameHub/blob/main/Diagram%20de%20s%C3%A9quence%20.png"
+ <img id="fig2" src="https://github.com/Rzgi/GameHub/blob/main/spec/Diagram%20de%20s%C3%A9quence%20.png"
      alt="diagramme de séquence"
      style="float: left; margin-right: 10px;" />
      
