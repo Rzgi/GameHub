@@ -4,6 +4,9 @@
   * [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
   * [Les besoins non fonctionnels](#B---Les-besoins-non-fonctionnels)
 * [Modélisation des besoins fonctionnels](#Modélisation-des-besoins-fonctionnels)
+  * [diagramme de cas d’utilisation](#fig1)
+* [Modélisation dynamique](#Modélisation-dynamique)
+  * [Diagram de séquence ](#fig2)
 
 ## Specification des besoins :
 
@@ -14,10 +17,10 @@ En effet, **notre systeme devra repondre aux besoins fonctionnels suivants :**
 
 ### A - LES BESOINS FONCTIONNELS:
 L’application offre a les clients les fonctionnalites suivantes :<br> 
-* Ajouter un jeux<br>
-* Consulter un jeux<br>
-* Modifier un jeux<br>
-* Supprimer un jeux<br>
+* Ajouter un jeu<br>
+* Consulter un jeu<br>
+* Modifier un jeu<br>
+* Supprimer un jeu<br>
 
 ### B - Les besoins non fonctionnels :
 Il s'agit des besoins qui caractérisent le système. Ce sont des besoins en matière de performance, de type de matériel ou le type de conception. 
@@ -64,7 +67,20 @@ Figure 1 - diagramme de cas d’utilisation
 Les fonctionnalités du système sont représentées par le diagramme de cas d’utilisation illustrée dans la figure [1](#fig1).  
 Ce diagramme met en valeur la répartition des fonctionnalités entre les différents acteurs.  
 Dans ce diagramme, il y a un seul acteur :  
- **administrateur**  
+&nbsp;&nbsp;&nbsp;&nbsp;**administrateur**
 
-L’administrateur est cens ́e de r ́ealiser les tˆaches suivantes :
+
+
+L’administrateur est cens ́e de réaliser les tâches suivantes :
+
+* Ajouter un jeu aux collections<br>
+* Consulter un jeu<br>
+* Modifier un jeu<br>
+* Supprimer un jeu<br>  
+
+
+## Modélisation dynamique
+### Diagrammes de séquences
+Dans cette section, nous allons présenter les diagrammes de séquence les plus importants dans notre système. Le diagramme de séquence représente une interaction entre
+plusieurs éléments qui interagissent par l’envoi de messages. Il permet de décrire le dynamisme d’un système et de faire le lien entre le diagramme de cas d’utilisation et le diagramme de classe.
 
