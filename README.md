@@ -90,8 +90,9 @@ plusieurs éléments qui interagissent par l’envoi de messages. Il permet de d
 * modifier
 * supprimer
 
-![diagramme de séquence](https://github.com/Rzgi/GameHub/blob/main/Diagram%20de%20s%C3%A9quence%20.png)
 <p align="center" id="fig2">
+![diagramme de séquence](https://github.com/Rzgi/GameHub/blob/main/Diagram%20de%20s%C3%A9quence%20.png)
+
 Figure 2 - diagramme de séquence
 </p>
 <br></br>
