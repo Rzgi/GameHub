@@ -84,3 +84,15 @@ L’administrateur est cens ́e de réaliser les tâches suivantes :
 Dans cette section, nous allons présenter les diagrammes de séquence les plus importants dans notre système. Le diagramme de séquence représente une interaction entre
 plusieurs éléments qui interagissent par l’envoi de messages. Il permet de décrire le dynamisme d’un système et de faire le lien entre le diagramme de cas d’utilisation et le diagramme de classe.
 
+**La figure [2](#fig2) représente le diagramme de séquence des cas d'utilisation :**  
+* ajouter
+* consulter
+* modifier
+* supprimer
+
+![diagramme de séquence](https://github.com/Rzgi/GameHub/blob/main/Diagram%20de%20s%C3%A9quence%20.png)
+<p align="center" id="fig1">
+Figure 2 - diagramme de séquence
+</p>
+<br></br>
+
