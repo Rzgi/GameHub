@@ -3,6 +3,7 @@
 * [Specification des besoins](#Specification-des-besoins)  
   * [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
   * [Les besoins non fonctionnels](#B---Les-besoins-non-fonctionnels)
+* [Modélisation des besoins fonctionnels](#Modélisation-des-besoins-fonctionnels)
 
 ## Specification des besoins :
 
@@ -46,3 +47,9 @@ Testabilité.
 Facilité d’adaptation.  
 Facilité à l’installation.  
 Interchangeabilité.  
+
+## Modélisation des besoins fonctionnels
+Après la présentation des besoins fonctionnels, nous passons a la modélisation de ces
+besoins par la définition des cas d’utilisation.
+### Identification des cas d’utilisation
+
