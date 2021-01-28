@@ -1,5 +1,5 @@
 # Projet : vente des jeux vidéo
-Go to section
+## Aller à la section
 * [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
 * [Les besoins non fonctionnels](#B---Les-besoins-non-fonctionnels)
 
