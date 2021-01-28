@@ -52,11 +52,11 @@ Interchangeabilité.
 Après la présentation des besoins fonctionnels, nous passons a la modélisation de ces
 besoins par la définition des cas d’utilisation.
 ### Identification des cas d’utilisation
-Dans cette section, nous présentons le diagramme de cas d’utilisation  (cf. Figure [1](#figure-1---diagramme-de-cas-dutilisation))
+Dans cette section, nous présentons le diagramme de cas d’utilisation  (cf. Figure [1](#fig1))
 qui permet d’illustrer les fonctionnalites système  vis-à-vis aux acteurs présentés.
 
 ![diagramme de cas d’utilisation](https://github.com/Rzgi/GameHub/blob/main/Diagramme%20de%20Cas%20d'Utilisation.png)
-<p align="center">
+<p align="center" id="fig1">
 Figure 1 - diagramme de cas d’utilisation 
 </p>
 
