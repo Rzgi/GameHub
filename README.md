@@ -56,5 +56,5 @@ Dans cette section, nous présentons le diagramme de cas d’utilisation  (cf. F
 qui permet d’illustrer les fonctionnalites système  vis-à-vis aux acteurs présentés.
 
 ![diagramme de cas d’utilisation](https://github.com/Rzgi/GameHub/blob/main/Diagramme%20de%20Cas%20d'Utilisation.png)
-##### Figure 1 - diagramme de cas d’utilisation {align=center}
+##### Figure 1 - diagramme de cas d’utilisation {style=text-align:center}
 
