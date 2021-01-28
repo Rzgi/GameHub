@@ -64,7 +64,7 @@ Figure 1 - diagramme de cas d’utilisation
 Les fonctionnalités du système sont représentées par le diagramme de cas d’utilisation illustrée dans la figure [1](#fig1).  
 Ce diagramme met en valeur la répartition des fonctionnalités entre les différents acteurs.  
 Dans ce diagramme, il y a un seul acteur :  
-administrateur  
+ **administrateur**  
 
 L’administrateur est cens ́e de r ́ealiser les tˆaches suivantes :
 
