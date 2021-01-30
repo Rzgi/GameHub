@@ -1,5 +1,6 @@
 # Projet : Gestion de collection de jeux vidéo
 ## Aller à la section
+* [Identification des acteurs](#Identification-des-acteurs)
 * [Specification des besoins](#Specification-des-besoins)  
   * [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
   * [Les besoins non fonctionnels](#B---Les-besoins-non-fonctionnels)
@@ -24,8 +25,8 @@ En effet, **notre systeme devra repondre aux besoins fonctionnels suivants :**
 
 ### A - LES BESOINS FONCTIONNELS:
 L’application offre a les clients les fonctionnalites suivantes :<br> 
-* Ajouter un jeu<br>
-  Ajouter un jeu aux collection
+* Ajouter un jeu <br>
+  Ajouter un jeu aux collection (cf. Figure [1](#fig1)
 * Consulter un jeu<br>
 * Modifier un jeu<br>
 * Supprimer un jeu<br>
