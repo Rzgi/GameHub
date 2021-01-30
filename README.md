@@ -26,7 +26,7 @@ En effet, **notre systeme devra repondre aux besoins fonctionnels suivants :**
 ### A - LES BESOINS FONCTIONNELS:
 L’application offre a les clients les fonctionnalites suivantes :<br> 
 * Ajouter un jeu <br>
-  Ajouter un jeu aux collection (cf. Figure [1](#fig1)
+  Ajouter un jeu aux collection (cf. Figure [2](#fig2))
 * Consulter un jeu<br>
 * Modifier un jeu<br>
 * Supprimer un jeu<br>
