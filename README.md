@@ -8,6 +8,13 @@
 * [Modélisation dynamique](#Modélisation-dynamique)
   * [Diagram de séquence ](#fig2)
 
+
+## Identification des acteurs:
+Afin d’étudier les interactions du systéme avec le monde extérieur, nous procédons dans  
+un premier lieu à l’identification des acteurs et dans un deuxièmes lieu à la modélisation des  
+exigences de chaque acteur. Dans cette plateforme, il ya un seul acteur :  
+ - **administrateur**
+
 ## Specification des besoins :
 
 Dans cette section, nous procedons a une etape de specification des besoins fonctionnels de notre systeme.  
@@ -18,6 +25,7 @@ En effet, **notre systeme devra repondre aux besoins fonctionnels suivants :**
 ### A - LES BESOINS FONCTIONNELS:
 L’application offre a les clients les fonctionnalites suivantes :<br> 
 * Ajouter un jeu<br>
+  Ajouter un jeu aux collection
 * Consulter un jeu<br>
 * Modifier un jeu<br>
 * Supprimer un jeu<br>
