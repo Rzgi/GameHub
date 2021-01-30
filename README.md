@@ -26,11 +26,14 @@ En effet, **notre systeme devra repondre aux besoins fonctionnels suivants :**
 ### A - LES BESOINS FONCTIONNELS:
 L’application offre a les clients les fonctionnalites suivantes :<br> 
 * Ajouter un jeu <br>
-  Ajouter un jeu aux collection (cf. Figure [2](#fig2))
+   saisir les données nécessaires pour ajouter un jeu aux collections (voir Figure [2](#fig2))
 * Consulter un jeu<br>
+   récupérer un jeu choisit à partir la base de données si elle existe (voir Figure [2](#fig2))
 * Modifier un jeu<br>
+   mettre à jour les données d'un jeu choisit (voir Figure [2](#fig2))
 * Supprimer un jeu<br>
-
+   effacer un jeu choisit de la base de données (voir Figure [2](#fig2))
+   
 ### B - Les besoins non fonctionnels :
 Il s'agit des besoins qui caractérisent le système. Ce sont des besoins en matière de performance, de type de matériel ou le type de conception. 
 L'application devra être capable de :
