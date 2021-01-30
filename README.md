@@ -104,4 +104,3 @@ plusieurs éléments qui interagissent par l’envoi de messages. Il permet de d
 Figure 2 - diagramme de séquence
 </p>
 <br></br>
-
